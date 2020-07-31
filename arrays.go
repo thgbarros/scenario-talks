@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-var a[10] int
+var a [10]int
 
 func exemploArray() {
 	primes := [6]int{2, 3, 5, 7, 11, 13}
@@ -13,8 +13,4 @@ func exemploArray() {
 	fmt.Println(a)
 
 	fmt.Println(primes)
-}
-
-func main() {
-	exemploArray()
 }
