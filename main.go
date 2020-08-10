@@ -1,16 +1,11 @@
 package main
 
-import (
-	"fmt"
-	"scenario-talks/pack"
-	"scenario-talks/pack/innerPack"
-)
+//func main() {
+//fmt.Printf("Hello world")
 
-func main() {
-	fmt.Printf("Hello world")
+//pack.Exportavel()
+//pack.OutroExportavel()
+//innerPack.InnerExportavel()
+//pack.naoExportavel()
 
-	pack.naoExportavel()
-	pack.Exportavel()
-	pack.OutroExportavel()
-	innerPack.InnerExportavel()
-}
+//}
